@@ -1,5 +1,13 @@
 # Understanding deep learning requires rethinking generalization
 
+## Deliverables
+
+- **Video Link:** [Video](https://youtu.be/NTUpjh0wIx4) 
+- **Report link:** [Report](https://drive.google.com/file/d/1iWHV-jIxqgBQ7_SuAxRStr7fw1b2tJee/view?usp=sharing) 
+- **Code**:
+    - Input_Corruption_Inception.ipynb
+    - Label_Corruption_Inception.ipynb
+    - results_inception.ipynb 
 ## How to run a notebook
 I recommend use VSCode with the [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) to run the notebook.
 
